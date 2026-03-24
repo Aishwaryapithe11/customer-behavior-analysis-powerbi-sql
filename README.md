@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Analysis Dashboard
+<img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/7a7b8823-4ebc-4930-892a-80c6eb2ef65a" /># 📊 Customer Behavior Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -49,7 +49,8 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-(screenshots/dashboard.png)
+
+
 
 ---
 
